@@ -1,4 +1,5 @@
 Obtaining a Thorough CS Background Online
+
 线上CS深度学习攻略
 
 [source](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
@@ -12,6 +13,7 @@ I started with the core requirements of a typical undergraduate CS program and r
 我会先从基础的本科基础课程说起, 并用所对应的一些教育网站的网络课程替代它们.
 
 ## Types of Online Courses
+
 ## 网络课程的种类
 
 Online courses generally take on one of three styles:
@@ -32,6 +34,7 @@ Of the three styles, I have a preference for interactive courses with deadlines.
 上述三种风格中, 我更偏向有截止时间的交互课程. 因为我们早就能在网络上找到这些资料, 而交互式的方式可以创造独特的学习体验. 此外, 固定时间, 带截止时间的方式给我一旦投入了几周时间就得去完成它的责任感.
 
 ## Curriculum
+
 ## 课程
 
 I’ve divided the curriculum into three sections: Math, Core CS, and Advanced CS. In general, you should finish one section before moving onto the next. The Intro to CS courses are exceptions, though, that have no math prerequisites.
@@ -92,6 +95,7 @@ Of all the math listed here, it’s most important to learn about discrete math,
         + [Introduction to Probability – The Science of Uncertainty - mit](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
 
 ## Core Computer Science
+
 ## 计算机核心课程
 
 These are the core topics of CS. Start with an intro class that’s appropriate for you. Then continue with one of the algorithms sequences. A strong background in algorithms is essential to being able to write high-quality software, as well as surviving technical interviews. Computer architecture and CS theory are also crucial topics taken by every CS student that fill in understanding at the low and high levels.
