@@ -39,11 +39,11 @@ Many topics have multiple “offerings”, often with different workloads. I’v
 
 我将课程分成三个部分: 数学, 核心CS, 高级CS. 通常来说你需要按顺序一步步来. CS的入门课程是个例外, 他没有数学上的预备要求. 许多主题会给出多个课程, 通常是不同的难度. 我将任务做了分类来帮助你区分. 例如, 我找到了四个单变量微积分的课程, 两个适合有学习背景的, 另两个更偏向入门.
 
-学时表:
-    - level 0: < 50
-    - level 1: 50 - 80
-    - level 2: 80 - 120
-    - level 3: > 120
+学时表:  
+- level 0: < 50
+- level 1: 50 - 80
+- level 2: 80 - 120
+- level 3: > 120
 
 ## Math
 ## 数学
@@ -98,9 +98,9 @@ These are the core topics of CS. Start with an intro class that’s appropriate 
 
 这些是计算机的核心主题. 选一个适合你的入门课程, 然后再从算法系列中挑选一个. 牛逼的算法背景可以写出高质量的软件, 也能在技术面试中幸存下来. 计算机架构和计算机理论也是对每个CS专业学生有挑战的主题, 充满了高层和底层的理解.
 
-    From Nand to Tetris is a brilliant offering from the Hebrew University of Jerusalem that guides you through building each layer of a simplified computer system from scratch. I’m currently taking it with two other developers here in Detroit, although no programming experience is needed.
+> From Nand to Tetris is a brilliant offering from the Hebrew University of Jerusalem that guides you through building each layer of a simplified computer system from scratch. I’m currently taking it with two other developers here in Detroit, although no programming experience is needed.
 
-    `从与非门道俄罗斯方块` 是耶路撒冷希伯来大学的一门好课, 指导你搭建一个简单计算机的每一层. 我正在和底特律的两个开发者一起学习, 这门课程不需要编程经验.
+> `从与非门道俄罗斯方块` 是耶路撒冷希伯来大学的一门好课, 指导你搭建一个简单计算机的每一层. 我正在和底特律的两个开发者一起学习, 这门课程不需要编程经验.
 
 
 - 入门
@@ -133,11 +133,12 @@ After completing the core topics, you have the necessary background to study any
 
 完成核心课程后, 你已经有了学习高级课程所需的知识背景. 无人能掌握所有, 只要追随你最喜欢的便好. 我试着把课程按底层(面向硬件)到高层(面向抽象)的顺序排序
 
-    I have two personal recommendations from this list: Cryptography is a fun challenge and helped me look at security in general differently. It’s taught by Dan Boneh, who’s an authoritative figure in the crypto field and also an excellent instructor.
-    Functional Programming Principles in Scala has helped me write better code on a day-to-day basis by combining general functional programming theory with actual knowledge about the Scala language. It’s taught by the designer of Scala, Martin Odersky.
+> I have two personal recommendations from this list: Cryptography is a fun challenge and helped me look at security in general differently. It’s taught by Dan Boneh, who’s an authoritative figure in the crypto field and also an excellent instructor.
+> Functional Programming Principles in Scala has helped me write better code on a day-to-day basis by combining general functional programming theory with actual knowledge about the Scala language. It’s taught by the designer of Scala, Martin Odersky.
 
-    列表中有两个个人推荐: 密码学是个有趣的挑战, 帮助我从不同角度看待安全问题. 该课程由 Dan Boneh 教授, 是密码领域的权威专家, 同时也是出色的导师.
-    函数式编程-scala 帮助我通过学习scala的函数式编程理论, 在工作中写出更好的代码. 它由Scala之父, Martin Odersky教授.
+
+> 列表中有两个个人推荐: 密码学是个有趣的挑战, 帮助我从不同角度看待安全问题. 该课程由 Dan Boneh 教授, 是密码领域的权威专家, 同时也是出色的导师.
+> 函数式编程-scala 帮助我通过学习scala的函数式编程理论, 在工作中写出更好的代码. 它由Scala之父, Martin Odersky教授.
 
 - 计算机结构:
     + level 1:
